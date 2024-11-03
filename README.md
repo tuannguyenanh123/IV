@@ -1,5 +1,5 @@
 # Interview result 
-Countdown, respónive, animation, mutil-language
+Countdown, responsive, animation, mutil-language
 
 <img width="1512" alt="Screenshot 2024-11-03 at 14 42 15" src="https://github.com/user-attachments/assets/6c29d44a-ad02-4c6d-8061-311737bdc847">
 <img width="1512" alt="Screenshot 2024-11-03 at 14 42 07" src="https://github.com/user-attachments/assets/1eca25e6-bd24-4970-ac1b-8ab5eaed46b4">
