@@ -1,0 +1,345 @@
+{
+  "button": {
+    "more": "看更多",
+    "request": "發送請求",
+    "save_qr_code": "儲存二維碼",
+    "open_zalopay": "打開 ZaloPay",
+    "continue": "繼續",
+    "processing": "加工"
+  },
+  "navbar": { "home": "首頁", "service": "服務", "expense": "費用", "contact": "聯絡人", "develop": "開發" },
+  "banner": {
+    "title": "服務多樣，付款簡單、快速-方便",
+    "description": "憑藉當今最先進、最安全的技術，TimePay 為企業提供完美的支付解決方案。 支援最高效率的支付，同時確保絕對的資訊安全。",
+    "button": "看更多"
+  },
+  "home": {
+    "description_title": "亞洲領先的安全支付服務提供者",
+    "description_sub_title": "TimePay 憑藉當今最先進、最安全的技術，為企業提供完美的支付解決方案。支援最高效率的支付，同時保證出色的資訊安全。相反。",
+    "time_pay_gateway": "TIMEPAY 付款網關",
+    "time_pay_gateway_desc": "自動支付解決方案提供者 - 對所有企業來說都是安全可靠的",
+    "diversity": "多樣性",
+    "diversity_sub": "服務與便利設施的多樣性",
+    "auto": "自動",
+    "auto_sub": "全自動傳輸",
+    "fast": "超快",
+    "fast_sub": "快速匯款",
+    "fulltime_title": "24/7",
+    "connection": {
+      "title": "多渠道连接",
+      "desc_1": "国内和国际支付合作伙伴",
+      "desc_2": "交易成功率",
+      "desc_3": "年度交易额",
+      "desc_4": "合作银行"
+    },
+    "fulltime": "随时随地支付",
+    "safe": "安全",
+    "safe_sub": "安全加密交易-國際標準",
+    "modern": "現代",
+    "modern_sub": "現代、快速付款",
+    "simple_ payment_title": "簡單的付款解決方案",
+    "simple_ payment_desc": "為從個人到企業的所有客戶整合簡單的付款解決方案",
+    "create_order": "建立訂單",
+    "create_order_desc": "客戶登入帳號或在平台建立付款訂單",
+    "payment": "付款",
+    " payment_desc": "付款程序將透過國際編碼、自動完成完成。",
+    "confirm": "確認",
+    "confirm_desc": "付款流程透過連接銀行和電子錢包的AI系統自動確認",
+    "success": "成功",
+    "success_desc": "客戶的錢包將自動快速更新為正確的交易金額",
+    "advantage": "時薪優勢",
+    "sub_integrate": "我们帮助您获得最佳的支付体验",
+    "security": {
+      "security_1": "安全與保障",
+      "security_1_desc": "採用符合國際銀行標準的最先進的安全技術。交易始終在安全且高度安全的環境中得到保障",
+      "security_2": "可信任",
+      "security_2_desc": "專業技術人員和專家團隊，提供領先的第三方支付服務。能夠回應數百萬日常交易",
+      "security_3": "快速整合",
+      "security_3_desc": "優化的付款解決方案，可以快速集成為客戶的高度安全的解決方案。只需 2 小時即可使用。"
+    },
+    "integrated_way": "如何與 TIMEPAY 整合",
+    " payment_with_business": "在商業 PC 平台上付款",
+    "payment_with_business_desc": {
+      "desc_1": "TimePay專屬付款方式",
+      "desc_2": "超速度的突出優勢-超精度",
+      "desc_3": "適用於整個業務"
+    },
+    " payment_with_mobile": "行動平台支付",
+    "payment_with_mobile_desc": {
+      "desc_1": "TimePay專屬付款方式",
+      "desc_2": "快速方便",
+      "desc_3": "只需使用智慧型手機即可在任何地方進行操作"
+    },
+    "cooperation_partnerships": "合作夥伴",
+    "bank": "銀行",
+    "electronic_wallet": "電子錢包",
+    "card": "刮刮卡"
+  },
+  "payment_method": {
+    "vip_qr": "貴賓二維碼",
+    "qr_banking": "二維碼銀行",
+    "online_banking": "網路銀行",
+    "offline_banking": "離線銀行",
+    "card": "刮刮卡",
+    "payout": "付款",
+    "usdt": "USDT"
+  },
+  "contact_form": {
+    "title": "联系我们",
+    "name": "姓名*",
+    "email": "电子邮件*",
+    "contact_channel": "Telegram / Skype *",
+    "content": "内容",
+    "phone": "电话*",
+    "role": "角色*",
+    "domain": "域名业务",
+    "name_company": "公司名称*",
+    "product": "感兴趣的产品*",
+    "message": "消息*",
+    "label": {
+      "name": "姓名",
+      "phone": "电话号码",
+      "role": "职位",
+      "email": "电子邮件",
+      "domain": "活动领域",
+      "name_company": "公司/单位名称",
+      "product": "感兴趣的产品",
+      "contact_channel": "Telegram/Skype",
+      "message": "消息",
+      "content": "内容"
+    }
+  },
+  "footer": "© 2023 版權所有屬於2QPAY",
+  "integrate": {
+    "title": "亚洲领先的安全支付服务提供商",
+    "description": "TimePay 凭借当今最先进、最安全的技术，为企业提供完美的支付解决方案。支持最高效率的支付，同时保证出色的信息安全。相反。",
+    "paymentUI": "支付接口",
+    "paymentCallback": "支付回调",
+    "checkingPayment": "检查支付接口",
+    "bankSupportPayment": "银行支持付款",
+    "yes": "​是",
+    "merchant_no": "商户号",
+    "out_trade_no": "商户订单号",
+    "bank_code": "银行编码",
+    "bank_card_number": "银行账号",
+    "amount": "金额",
+    "timestamp": "时间戳/1000",
+    "notifyUrl": "回调地址",
+    "sign": "签名信息 小写字符串",
+    "username": "用户真实姓名",
+    "signal": "Sign",
+    "response_desc": "返回参数说明",
+    "code": "参数名",
+    "code_desc": "返回码 (200 成功)",
+    "success": "成功状态true or false",
+    "message": "返回描述",
+    "params_name": "参数名",
+    "required": "必选",
+    "type": "类型",
+    "desc": "说明",
+    "order_no": "系统订单号",
+    "status": "状态 1 成功 2失败",
+    "payment_ui": {
+      "title": "一，代付接口:",
+      "method": "接入方式",
+      "method_desc_1": "· 通信方式：POST方式application/json",
+      "method_desc_2": "· - 编码方式：全局使用 UTF-8 编码",
+      "request_url": "请求URL",
+      "official": "· 正式:"
+    },
+    "payment_callback": {
+      "title": "二，代付回调:",
+      "desc": "商户接收到系统发送的回调,请返回 ”success” ,防止系统重复发送订单回调",
+      "method": "请求方式",
+      "parcel": "POST",
+      "callback_parameter": "回调参数"
+    },
+    "checking_payment": {
+      "title": "三，代付查单接口:",
+      "desc": "商户接收到系统发送的回调,请返回 ”success” ,防止系统重复发送订单回调",
+      "method": "请求方式",
+      "parcel": "POST",
+      "callback_parameter": "回调参数"
+    },
+    "bank_support": "四, 代付银行编码:",
+    "bank_name": "银行名称"
+  },
+  "service": {
+    "internet_banking": {
+      "title": "網上銀行",
+      "sub_title": "二維碼/線上/離線",
+      "detail": {
+        "detail_1": "快速交易",
+        "detail_2": "成功率超過99%",
+        "detail_3": "支持國內20多家大小銀行",
+        "detail_4": "資訊加密依照國際標準，SSL/TLS傳輸加密技術符合GlobalSign國際認證。",
+        "detail_5": "絕對的資訊安全"
+      }
+    },
+    "vip_qr": {
+      "title": "VIPQR - 只需幾分鐘即可付款！",
+      "sub_title": "只需掃描程式碼，全部都是 TIMEPAY！",
+      "detail": {
+        "detail_1": "快速交易，掃碼即到",
+        "detail_2": "安全性符合最高標準",
+        "detail_3": "使用者資訊安全",
+        "detail_4": "支援許多現代功能"
+      }
+    },
+    "momo": {
+      "title": "MOMO",
+      "sub_title": "快速 - 方便 - 緊湊",
+      "detail": {
+        "detail_1": "越南最受歡迎的電子錢包",
+        "detail_2": "交易快速簡單",
+        "detail_3": "標記化功能",
+        "detail_4": "安全付款-絕對安全",
+        "detail_5": "SSL/TLS傳輸加密技術符合GlobalSign國際認證。"
+      }
+    },
+    "zalo": {
+      "title": "ZALO 支付",
+      "sub_title": "安全 - 現代",
+      "detail": {
+        "detail_1": "快速交易，掃碼即到",
+        "detail_2": "安全性符合最高標準",
+        "detail_3": "使用者資訊安全",
+        "detail_4": "支援許多現代功能"
+      }
+    },
+    "viettel": {
+      "title": "VIETTEL 支付",
+      "sub_title": "信譽 - 品質",
+      "detail": {
+        "detail_1": "1分鐘快速轉帳",
+        "detail_2": "2層安全技術",
+        "detail_3": "3DES安全技術",
+        "detail_4": "PCI DSS 國際安全認證"
+      }
+    },
+    "card": {
+      "title": "刮刮卡",
+      "sub_title": "網路的多樣性",
+      "detail": {
+        "description": "支援許多運營商",
+        "detail_1": "MOBIFONE",
+        "detail_2": "維埃特爾",
+        "detail_3": "VINAPHONE",
+        "detail_4": "越南移動"
+      }
+    },
+    "usdt": {
+      "title": "USDT",
+      "sub_title": "即時更新匯率",
+      "detail": {
+        "detail_1": "支援TRC20和ERC 20快速儲值",
+        "detail_2": "安全快速的交易",
+        "detail_3": "更新的市場匯率"
+      }
+    },
+    "payout": {
+      "title": "付款",
+      "sub_title": "簡單 - 快速",
+      "detail": {
+        "detail_1": "簡單整合",
+        "detail_2": "處理速度快",
+        "detail_3": "支持國內所有銀行",
+        "detail_4": "客戶資訊安全"
+      }
+    }
+  },
+  "expense": {
+    "banner": {
+      "title": "亞洲領先的安全支付服務提供者",
+      "description": "TimePay 憑藉當今最先進、最安全的技術，為企業提供完美的支付解決方案。支援最高效率的支付，同時確保卓越的資訊安全。太棒了。"
+    },
+    "title": " 服務費用",
+    "sub_title": "市場上最好的服務成本",
+    "detail": {
+      "detail_1": "網路銀行/二維碼銀行/離線銀行費用",
+      "detail_2": "MOMO電子錢包費用",
+      "detail_3": "TEL TEL PAY 電子錢包費用",
+      "detail_4": "ZALO電子錢包費用",
+      "detail_5": "刮刮卡費用",
+      "detail_6": "USDT 費用",
+      "detail_7": "付款費用",
+      "detail_8": "VIPQR 費用"
+    }
+  },
+  "viettel_pay": {
+    "phone_number": "電話號碼",
+    "amount": "金錢金額",
+    "name": "帳戶名稱",
+    "content": "NOI糞",
+    "time_payment": "剩餘付款時間",
+    "description": "安全的線上支付"
+  },
+  "bank_online": {
+    "payment_success": "支付成功",
+    "step": {
+      "login_acc": "登入您的帳戶",
+      "author_code": "授權碼",
+      "result_payment": "付款結果"
+    },
+    "form": {
+      "login": {
+        "user_name": {
+          "label": "使用者名稱",
+          "placeholder": "輸入你的用戶名"
+        },
+        "password": {
+          "label": "密碼",
+          "placeholder": "輸入密碼"
+        }
+      },
+      "code_trading": {
+        "code": {
+          "label": "交易代碼",
+          "placeholder": "輸入交易代碼"
+        },
+        "otp": {
+          "label": "免洗密碼",
+          "placeholder": "輸入代碼 OTP"
+        }
+      }
+    }
+  },
+  "transaction": {
+    "top_action": {
+      "title": "快速买卖",
+      "history": "交易历史"
+    },
+    "title": "直接使用 Cryptocy 买卖加密货币",
+    "desc_1": "超速度",
+    "desc_2": "安全交易",
+    "button": {
+      "buy": "购买",
+      "sell": "卖"
+    },
+    "bottom": {
+      "title": "买卖USDT时100%信任的地方",
+      "desc_1": "快速 - 自动 - 完全免费存取款",
+      "button": "立即开始交易"
+    },
+    "form": {
+      "pay_vnd": "您要支付的越南盾金额",
+      "sell_usdt": "卖出 USDT 数量",
+      "button": "输入数量",
+      "est_price": "预计价格",
+      "you_get": "你得到"
+    }
+  },
+  "profile": {
+    "balance": "余额",
+    "fullname": "全名",
+    "bank_account": "银行账户",
+    "wallet_usdt": "USDT 钱包",
+    "change_password": "更改密码",
+    "add_wallet": "添加钱包",
+    "wallet_address": "地址",
+    "add_bank": "添加银行账户",
+    "bank_name": "银行名称",
+    "account_number": "帐号",
+    "account_name": "账户名称"
+  }
+}

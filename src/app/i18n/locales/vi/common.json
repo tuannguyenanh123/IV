@@ -1,0 +1,432 @@
+{
+  "button": {
+    "more": "Xem thêm",
+    "request": "Nhận tư vấn",
+    "save_qr_code": "Lưu mã QR",
+    "open_zalopay": "Mở ZaloPay",
+    "continue": "Tiếp tục",
+    "processing": "Đang xử lý",
+    "login": "Đăng nhập",
+    "register": "Đăng ký",
+    "start": "Bắt đầu giao dịch ngay",
+    "add": "Thêm",
+    "edit": "Chỉnh sửa",
+    "update": "Cập nhật",
+    "create": "Tạo",
+    "email": "Địa chỉ email của bạn"
+  },
+  "coundown": {
+    "day": "Ngày",
+    "hour": "Giờ",
+    "mini": "Phút",
+    "second": "Giây"
+  },
+  "navbar": {
+    "ABOUT": "Về chúng tôi",
+    "GAMES": "Trò chơi",
+    "PARTNERS": "Đối tác",
+    "CONTACTS": "Liên hệ",
+    "develop": "Phát triển",
+    "docs": "Tài liệu tích hợp"
+  },
+  "banner": {
+    "title": "ĐA DẠNG DỊCH VỤ, THANH TOÁN DỄ DÀNG NHANH CHÓNG - TIỆN LỢI",
+    "description": "Với công nghệ bảo mật và tiên tiến nhất hiện nay, HQ Pay cung cấp cho doanh nghiệp giải pháp thanh toán hoàn hảo. Hỗ trợ thanh toán đạt hiệu suất cao nhất và đồng thời đảm bảo tính bảo mật thông tin tuyệt đối.",
+    "button": "Xem thêm",
+    "games": "Trò chơi",
+    "users": "Người dùng"
+  },
+  "banner_real": {
+    "home": {
+      "title1": "Chúng tôi đã sẵn sàng",
+      "title2": "HÀNG ĐẦU CHÂU Á",
+      "description_1": "Chúng tôi sẽ trở lại với một cái gì đó tuyệt vời. Nhận thông tin cập nhật mới nhất về trò chơi của chúng tôi. Hãy đăng ký nhận bản tin của chúng tôi.",
+      "description_2": "cung cấp cho doanh nghiệp giải pháp thanh toán hoàn hảo. Hỗ trợ thanh toán đạt hiệu suất cao nhất và đồng thời đảm bảo tính bảo mật thông tin tuyệt đối."
+    },
+    "service": {
+      "title1": "THANH TOÁN THÔNG MINH",
+      "title2": "VỚI ĐA DẠNG DỊCH VỤ",
+      "description_1": "Cổng thanh toán HQ Pay cung cấp nhiều phương thức thanh toán hiện có trên thị trường, thỏa mãn hầu hết các nhu cầu thanh toán trực tuyến của người dùng: Internet banking, VIPQR, Momo, Zalo Pay, Viettel Pay, USDT, Thẻ cào, Payout"
+    },
+    "expense": {
+      "title1": "GIẢI PHÁP THANH TOÁN",
+      "title2": "TỐI ƯU CHI PHÍ",
+      "description_1": "Giúp cá nhân, doanh nghiệp tối ưu chi phí khi sử dụng dịch vụ thanh toán của"
+    },
+    "contact": {
+      "title1": "LIÊN HỆ ĐỂ ĐƯỢC",
+      "title2": "TƯ VẤN MIỄN PHÍ",
+      "description_1": "Khách hàng có thể dễ dàng tiếp cận và sử dụng sản phẩm, dịch vụ của",
+      "description_2": "bất cứ khi nào, bất cứ nơi nào. Tư vấn, hỗ trợ khách hàng của",
+      "description_3": "luôn sẵn sàng phục vụ.",
+      "description_4": "LIÊN HỆ VỚI CHÚNG TÔI"
+    }
+  },
+  "home": {
+    "description_title": "NHÀ CUNG CẤP DỊCH VỤ THANH TOÁN AN TOÀN HÀNG ĐẦU CHÂU Á",
+    "description_sub_title": "Với công nghệ bảo mật và tiên tiến nhất hiện nay, HQ Pay cung cấp cho doanh nghiệp giải pháp thanh toán hoàn hảo. Hỗ trợ thanh toán đạt hiệu suất cao nhất và đồng thời đảm bảo tính bảo mật thông tin tuyệt đối.",
+    "time_pay_gateway": "Về chúng tôi",
+    "time_pay_gateway_desc": "Duyệt qua tuyển chọn các trò chơi trực tuyến miễn phí của chúng tôi và có một khoảng thời gian tuyệt vời mà không cần rời khỏi trang web! Tùy chọn Trò chơi dành cho Trẻ em của chúng tôi cũng bao gồm các bài đánh giá trò chơi, các trò chơi gian lận và hướng dẫn mở rộng, và nhiều hơn nữa. Chúng tôi cũng có các bản tải xuống, video và bài báo miễn phí độc quyền. Etech đánh giá các trò chơi trẻ em phổ biến nhất từ tất cả các nền tảng trò chơi điện tử phổ biến nhất, vì vậy bạn không cần phải tìm kiếm niềm vui ở bất kỳ nơi nào khác trên Internet. Khám phá một thế giới trò chơi hoàn toàn mới trên Etech.",
+    "diversity": "Truy Cập 24/7",
+    "diversity_sub": "Đảm bảo hoạt động kinh doanh của các nhà khai thác hoạt động trơn tru suốt cả năm.",
+    "auto": "Thiết Kế",
+    "auto_sub": "Kết hợp các vũ trụ giàu trí tưởng tượng, động lực chơi và lối chơi chưa từng có, trò chơi của chúng tôi vượt qua ranh giới của thế giới ảo bằng cách tạo ra lối chơi sáng tạo. ",
+    "fast": "Đội Ngũ",
+    "fast_sub": "Etech là một studio quốc tế, từng đoạt giải thưởng gồm các nhà thiết kế, nghệ sĩ, họa sĩ hoạt hình và nhà sản xuất chuyên tạo ra nội dung cho những tên tuổi lớn nhất trong lĩnh vực điện ảnh và trò chơi điện tử.",
+    "safe": "An toàn",
+    "safe_sub": "Giao dịch được mã hóa an toàn - chuẩn quốc tế",
+    "fulltime_title": "24/7",
+    "connection": {
+      "title": "KẾT NỐI ĐA KÊNH",
+      "sub_1": "1000+",
+      "sub_2": "99.9x%",
+      "sub_3": "5 tỷ USD+",
+      "sub_4": "50+",
+      "desc_1": "Đối tác thanh toán trong và ngoài nước",
+      "desc_2": "Tỷ lệ giao dịch thành công",
+      "desc_3": "Giá trị giao dịch hàng năm",
+      "desc_4": "Ngân hàng đối tác"
+    },
+    "fulltime": "Thanh toán mọi lúc, mọi nơi",
+    "modern": "Hiện đại",
+    "modern_sub": "Thanh toán hiện đại, nhanh gọn",
+    "simple_payment_title": "Trò chơi",
+    "simple_payment_desc": "Là nhà tiên phong trong lĩnh vực trò chơi ứng dụng dành cho thiết bị di động, chúng tôi tự hào về tính độc đáo và cá tính, cung cấp cho người chơi toàn cầu những trò chơi hiện đại có cốt truyện tuyệt vời, hiệu ứng âm thanh giật gân và hoạt ảnh hoành tráng không ngừng gây ấn tượng.",
+    "create_order": "Tạo đơn",
+    "create_order_desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+    "payment": "Thanh toán",
+    "payment_desc": "Quy trình thanh toán sẽ được thực hiện thông qua mã hóa quốc tế, tự động hoàn thành.",
+    "confirm": "Xác nhận",
+    "confirm_desc": "Quy trình thanh toán tự động được xác nhận thông qua hệ thống AI đã kết nối với ngân hàng, ví điện tử",
+    "success": "Thành công",
+    "success_desc": "Ví tiền của khách hàng sẽ được tự động cập nhật đúng với số tiền giao dịch một cách nhanh chóng",
+    "advantage": "ƯU THẾ CỦA HQ Pay",
+    "sub_integrate": "Chúng tôi giúp bạn có được trải nghiệm thanh toán tốt nhất",
+    "security": {
+      "security_1": "An toàn & Bảo mật",
+      "security_1_desc": "Với công nghệ bảo mật tiên tiến nhất phù hợp chuẩn ngân hàng quốc tế. Các giao dịch luôn được đảm bảo trong môi trường an toàn và bảo mật cao",
+      "security_2": "Đáng tin cậy",
+      "security_2_desc": "Đội ngũ kỹ thuật viên và chuyên viên chuyên nghiệp, cung cấp dịch vụ thanh toán bên thứ 3 hàng đầu. Có khả năng đáp ứng hàng triệu giao dịch hàng ngày",
+      "security_3": "Tích hợp nhanh",
+      "security_3_desc": "Giải pháp thanh toán được tối ưu hóa có thể tích hợp nhanh chóng như là một giải pháp an toàn bật cao cho khách hàng. Chỉ cần 2 tiếng là có thể sử dụng ngay."
+    },
+    "integrated_way": "CÁCH THỨC TÍCH HỢP VỚI HQ PAY",
+    "implement": {
+      "title_1": "Nền tảng PC",
+      "title_2": "Nền tảng di động",
+      "desc_1": "Thanh toán trên nền tảng PC Doanh nghiệp",
+      "desc_2": "Thanh toán trên nền tảng di dộng"
+    },
+    "payment_with_business": "Thanh toán trên nền tảng PC Doanh Nghiệp",
+    "payment_with_business_desc": {
+      "desc_1": "Phương thức thanh toán độc quyền chỉ có tại HQ Pay",
+      "desc_2": "Ưu điểm vượt trội siêu tốc độ - siêu chính xác",
+      "desc_3": "Áp dụng cho toàn bộ doanh nghiệp"
+    },
+    "payment_with_mobile": "Thanh toán trên nền tảng Di Động",
+    "payment_with_mobile_desc": {
+      "desc_1": "Phương thức thanh toán độc quyền chỉ có tại HQ Pay",
+      "desc_2": "Nhanh gọn tiện lợi",
+      "desc_3": "Thao tác ở bất cứ đâu chỉ với điện thoại thông minh"
+    },
+    "cooperation_partnerships": "ĐỐI TÁC",
+    "bank": "Ngân hàng",
+    "electronic_wallet": "Ví điện tử",
+    "card": "Thẻ cào"
+  },
+  "payment_method": {
+    "vip_qr": "VIP QR",
+    "qr_banking": "QR BANKING",
+    "online_banking": "Online banking",
+    "offline_banking": "Offline banking",
+    "card": "Thẻ cào",
+    "payout": "Payout",
+    "usdt": "USDT"
+  },
+  "contact_form": {
+    "title": "ĐỂ LẠI THÔNG TIN TƯ VẤN",
+    "name": "Tên *",
+    "phone": "Số điện thoại *",
+    "role": "Chức vụ *",
+    "email": "Email *",
+    "domain": "Lĩnh vực hoạt động *",
+    "name_company": "Tên công ty / đơn vị *",
+    "product": "Sản phẩm quan tâm *",
+    "contact_channel": "Telegram / Skype *",
+    "message": "Lời nhắn *",
+    "content": "Nội dung",
+    "label": {
+      "name": "Tên",
+      "phone": "Số điện thoại",
+      "role": "Chức vụ",
+      "email": "Email",
+      "domain": "Lĩnh vực hoạt động",
+      "name_company": "Tên công ty / đơn vị",
+      "product": "Sản phẩm quan tâm",
+      "contact_channel": "Telegram / Skype",
+      "message": "Lời nhắn",
+      "content": "Nội dung"
+    },
+    "rule_1": "Bằng cách nhấn vào “Nhận tư vấn” bạn đã đồng ý với",
+    "rule_2": "Chính sách quyền riêng tư của HQ Pay"
+  },
+  "footer": "2017 Copyright. Policy.",
+  "footer_content": {
+    "title": "Giải Pháp Thanh Toán Hàng Đầu",
+    "description": "Với công nghệ bảo mật và tiên tiến nhất hiện nay, HQ PAY cung cấp cho doanh nghiệp giải pháp thanh toán hoàn hảo. Hỗ trợ thanh toán đạt hiệu suất cao nhất và đồng thời đảm bảo tính bảo mật thông tin tuyệt đối.",
+    "services": {
+      "title": "Địa chỉ",
+      "internet_banking": "Internet banking",
+      "VIPQR": "VIPQR",
+      "MOMO": "MOMO",
+      "ZaloPay": "ZaloPay",
+      "Viettel_Pay": "Valletta Buildings, South Street, Valletta - VLT 1103 Malta, Mỹ",
+      "USDT": "Số 20 đường Phan Đăng Lưu, quận Hải Châu, thành phố Đà Nẵng, Việt Nam",
+      "Scratch_card": "(+1) 555-0108-000 hoặc (+236) 555-0108",
+      "Payout": "Payout"
+    },
+    "gateway_payment": {
+      "description": "Duyệt qua tuyển chọn các trò chơi trực tuyến miễn phí của chúng tôi và có một khoảng thời gian tuyệt vời mà không cần rời khỏi trang web! Tùy chọn Trò chơi dành cho Trẻ em của chúng tôi cũng bao gồm các bài đánh giá trò chơi, các trò chơi gian lận và hướng dẫn mở rộng, và nhiều hơn nữa. Chúng tôi cũng có các bản tải xuống, video và bài báo miễn phí độc quyền. Etech đánh giá các trò chơi trẻ em phổ biến nhất từ tất cả các nền tảng trò chơi điện tử phổ biến nhất, vì vậy bạn không cần phải tìm kiếm niềm vui ở bất kỳ nơi nào khác trên Internet. Khám phá một thế giới trò chơi hoàn toàn mới trên Etech.",
+      "title": "Theo dõi",
+      "price": "Đăng ký nhận bản tin của chúng tôi và là người đầu tiên biết về các cập nhật của chúng tôi",
+      "about_us": "Về chúng tôi",
+      "rules": "Điều khoản sử dụng",
+      "privacy_policy": "Chính sách bảo mật"
+    }
+  },
+  "integrate": {
+    "title": "NHÀ CUNG CẤP DỊCH VỤ THANH TOÁN AN TOÀN HÀNG ĐẦU CHÂU Á",
+    "description": "Với công nghệ bảo mật và tiên tiến nhất hiện nay, HQ Pay cung cấp cho doanh nghiệp giải pháp thanh toán hoàn hảo. Hỗ trợ thanh toán đạt hiệu suất cao nhất và đồng thời đảm bảo tính bảo mật thông tin tuyệt đối.",
+    "paymentUI": "Giao diện thanh toán",
+    "paymentCallback": "Gọi lại thanh toán",
+    "checkingPayment": "Giao diện kiểm tra thanh toán",
+    "bankSupportPayment": "Ngân hàng hỗ trợ thanh toán",
+    "yes": "yes",
+    "merchant_no": "Số doanh nghiệp",
+    "out_trade_no": "Số đơn đặt hàng của người bán",
+    "bank_code": "Mã ngân hàng",
+    "bank_card_number": "Tài khoản ngân hàng",
+    "amount": "Số lượng",
+    "timestamp": "Dấu thời gian/1000",
+    "notifyUrl": "Địa chỉ gọi lại",
+    "sign": "Chuỗi thông tin chữ ký viết thường",
+    "username": "Tên thật của người dùng",
+    "signal": "Dấu hiệu",
+    "response_desc": "Mô tả tham số trả về",
+    "code": "Mã",
+    "code_desc": "Mã trả lại (200 thành công)",
+    "success": "Trạng thái thành công đúng hay sai",
+    "message": "Quay lại mô tả",
+    "params_name": "Tên tham số",
+    "required": "Yêu cầu",
+    "type": "Kiểu",
+    "desc": "Minh họa",
+    "order_no": "Số thứ tự hệ thống",
+    "status": "Trạng thái 1 Thành công 2 Thất bại",
+    "payment_ui": {
+      "title": "1. Giao diện thanh toán",
+      "method": "Phương pháp truy cập",
+      "method_desc_1": "· Phương thức giao tiếp: Ứng dụng phương thức POST/json",
+      "method_desc_2": "· Phương pháp mã hóa: Sử dụng mã hóa UTF-8 trên toàn cầu",
+      "request_url": "URL yêu cầu:",
+      "official": "· Chính thức"
+    },
+    "payment_callback": {
+      "title": "2. Gọi lại thanh toán",
+      "desc": "Khi người bán nhận được lệnh gọi lại từ hệ thống, vui lòng trả về \"thành công\" để hệ thống không gửi lệnh gọi lại nhiều lần.",
+      "method": "Phương thức yêu cầu",
+      "parcel": "BƯU KIỆN",
+      "callback_parameter": "Tham số gọi lại"
+    },
+    "checking_payment": {
+      "title": "3. Payment check interface",
+      "desc": "When the merchant receives a callback from the system, please return \"success\" so the system does not send callbacks multiple times.",
+      "method": "Request method",
+      "request_url": "Request URL:",
+      "callback_parameter": "Callback parameter"
+    },
+    "bank_support": "4. Mã ngân hàng thanh toán",
+    "bank_name": "Tên ngân hàng"
+  },
+  "service": {
+    "internet_banking": {
+      "title": "INTERNET BANKING",
+      "sub_title": "QR / ONLINE / OFFLINE",
+      "detail": {
+        "detail_1": "Giao dịch nhanh chóng",
+        "detail_2": "Tỷ lệ thành công trên 99%",
+        "detail_3": "Hỗ trợ hơn 20 ngân hàng lớn và nhỏ trong nước",
+        "detail_4": "Mã hóa thông tin theo chuẩn quốc tế, Công nghệ mã hóa đường truyền SSL/TLS đạt chứng nhận quốc tế GlobalSign.",
+        "detail_5": "Bảo mật thông tin tuyệt đối"
+      }
+    },
+    "vip_qr": {
+      "title": "VIPQR - PAY NGAY PHÚT CHỐC!",
+      "sub_title": "CHỈ CẦN QUÉT MÃ, TẤT CẢ ĐÃ CÓ HQ Pay!",
+      "detail": {
+        "detail_1": "Giao dịch nhanh chóng, quét là lên ngay",
+        "detail_2": "Bảo mật đạt chuẩn cao nhất",
+        "detail_3": "An toàn thông tin người dùng",
+        "detail_4": "Hỗ trợ nhiều tính năng hiện đại"
+      }
+    },
+    "momo": {
+      "title": "MOMO",
+      "sub_title": "NHANH - TIỆN - GỌN",
+      "detail": {
+        "detail_1": "Ví điện tử thông dụng nhất Việt Nam",
+        "detail_2": "Giao dịch đơn giản nhanh chóng",
+        "detail_3": "Tính năng mã hóa quốc tế (Tokenization)",
+        "detail_4": "Thanh toán an toàn - Bảo mật tuyệt đối",
+        "detail_5": "Công nghệ mã hóa đường truyền SSL/TLS đạt chứng nhận quốc tế GlobalSign."
+      }
+    },
+    "zalo": {
+      "title": "ZALO PAY",
+      "sub_title": "BẢO MẬT - HIỆN ĐẠI",
+      "detail": {
+        "detail_1": "Giao dịch nhanh chóng, quét là lên ngay",
+        "detail_2": "Bảo mật đạt chuẩn cao nhất",
+        "detail_3": "An toàn thông tin người dùng",
+        "detail_4": "Hỗ trợ nhiều tính năng hiện đại"
+      }
+    },
+    "viettel": {
+      "title": "VIETTEL PAY",
+      "sub_title": "UY TÍN - CHẤT LƯỢNG",
+      "detail": {
+        "detail_1": "Chuyển tiền nhanh chỉ trong 1 phút",
+        "detail_2": "Công nghệ bảo mật 2 lớp",
+        "detail_3": "Công nghệ bảo mật 3DES",
+        "detail_4": "Chứng nhận bảo mật quốc tế PCI DSS"
+      }
+    },
+    "card": {
+      "title": "THẺ CÀO",
+      "sub_title": "ĐA DẠNG NHÀ MẠNG",
+      "detail": {
+        "description": "Hỗ trợ nhiều nhà mạng",
+        "detail_1": "MOBIFONE",
+        "detail_2": "VIETTEL",
+        "detail_3": "VINAPHONE",
+        "detail_4": "VIETNAMOBILE"
+      }
+    },
+    "usdt": {
+      "title": "USDT",
+      "sub_title": "TỈ GIÁ CẬP NHẬT THỜI GIAN THỰC",
+      "detail": {
+        "detail_1": "Hỗ trợ nạp nhanh qua TRC20 và ERC 20",
+        "detail_2": "Giao dịch bảo mật và nhanh chóng",
+        "detail_3": "Tỉ giá hối đoái cập nhật theo thị trường"
+      }
+    },
+    "payout": {
+      "title": "PAYOUT",
+      "sub_title": "ĐƠN GIẢN - NHANH CHÓNG",
+      "detail": {
+        "detail_1": "Tích hợp đơn giản",
+        "detail_2": "Tốc độ xử lý nhanh chóng",
+        "detail_3": "Hỗ trợ tất cả các ngân hàng nội địa",
+        "detail_4": "Bảo mật thông tin khách hàng"
+      }
+    }
+  },
+  "expense": {
+    "banner": {
+      "title": "NHÀ CUNG CẤP DỊCH VỤ THANH TOÁN AN TOÀN HÀNG ĐẦU CHÂU Á",
+      "description": "Với công nghệ bảo mật và tiên tiến nhất hiện nay, HQ Pay cung cấp cho doanh nghiệp giải pháp thanh toán hoàn hảo. Hỗ trợ thanh toán đạt hiệu suất cao nhất và đồng thời đảm bảo tính bảo mật thông tin tuyệt đối."
+    },
+    "title": "CHI PHÍ DỊCH VỤ",
+    "sub_title": "Mức phí tuỳ thuộc vào lượng nạp bình quân mỗi ngày của khách hàng. Hãy liên hệ với chúng tôi sớm nhất để nhận mức phí ưu đãi cùng các dịch vụ hậu mãi khác",
+    "detail": {
+      "detail_1": "Phí Online Banking / QR Banking / Offline Banking",
+      "detail_2": "Phí ví điện tử Momo",
+      "detail_3": "Phí ví điện tử Viettel Pay",
+      "detail_4": "Phí ví điện tử Zalo",
+      "detail_5": "Phí thẻ cào",
+      "detail_6": "Phí USDT",
+      "detail_7": "Phí Payout",
+      "detail_8": "Phí VIPQR"
+    }
+  },
+  "viettel_pay": {
+    "phone_number": "Số điện thoại",
+    "amount": "Số tiền",
+    "name": "Tên tài khoản",
+    "content": "Nội dung",
+    "time_payment": "Thời gian thanh toán còn lại",
+    "description": "Thanh toán trực tuyến an toàn"
+  },
+  "bank_online": {
+    "payment_success": "Thanh toán thành công",
+    "step": {
+      "login_acc": "Đăng nhập tài khoản",
+      "author_code": "Mã ủy quyền",
+      "result_payment": "Kết quả thanh toán"
+    },
+    "form": {
+      "login": {
+        "user_name": {
+          "label": "Tên đăng nhập",
+          "placeholder": "Nhập tên đăng nhập"
+        },
+        "password": {
+          "label": "Mật khẩu",
+          "placeholder": "Nhập mật khẩu"
+        }
+      },
+      "code_trading": {
+        "code": {
+          "label": "Mã giao dịch",
+          "placeholder": "Nhập mã giao dịch"
+        },
+        "otp": {
+          "label": "Mã OTP",
+          "placeholder": "Nhập mã OTP"
+        }
+      }
+    }
+  },
+  "transaction": {
+    "top_action": {
+      "title": "Mua bán nhanh",
+      "history": "Lịch sử giao dịch"
+    },
+    "title": "Mua bán tiền mã hoá trực tiếp với Cryptocy",
+    "desc_1": "Tốc độ vượt trội",
+    "desc_2": "Giao dịch đảm bảo",
+    "button": {
+      "buy": "Mua",
+      "sell": "Bán"
+    },
+    "bottom": {
+      "title": "Nơi bạn tin tưởng 100% khi mua bán USDT",
+      "desc_1": "Nhanh chóng - Tự động - Nạp rút hoàn toàn miễn phí",
+      "button": "Bắt đầu giao dịch ngay"
+    },
+    "form": {
+      "pay_vnd": "Số lượng VND muốn trả",
+      "sell_usdt": "Số lượng USDT muốn bán",
+      "button": "Nhập số lượng",
+      "est_price": "Giá ước tính",
+      "you_get": "Bạn nhận"
+    }
+  },
+  "profile": {
+    "balance": "Số dư",
+    "fullname": "Tên đầy đủ",
+    "bank_account": "Tài khoản ngân hàng",
+    "wallet_usdt": "Ví USDT",
+    "change_password": "Thay đổi mật khẩu",
+    "add_wallet": "Thêm ví",
+    "wallet_address": "Địa chỉ",
+    "add_bank": "Thêm tài khoản ngân hàng",
+    "bank_name": "Tên ngân hàng",
+    "account_number": "Số tài khoản",
+    "account_name": "Tên tài khoản"
+  },
+  "notification": {
+    "copy_success": "Sao chép thành công"
+  }
+}

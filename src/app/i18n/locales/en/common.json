@@ -1,0 +1,426 @@
+{
+  "button": {
+    "more": "See more",
+    "request": "Send request",
+    "save_qr_code": "Save QR code",
+    "open_zalopay": "Open ZaloPay",
+    "continue": "Continue",
+    "processing": "Processing",
+    "login": "Login",
+    "register": "Register",
+    "start": "Start trading now",
+    "add": "Add",
+    "edit": "Edit",
+    "update": "Update",
+    "create": "Create",
+    "email": "Enter your email"
+  },
+  "coundown": {
+    "day": "Days",
+    "hour": "Hours",
+    "mini": "Minutes",
+    "second": "Second"
+  },
+  "navbar": {
+    "ABOUT": "ABOUT US",
+    "GAMES": "GAMES",
+    "PARTNERS": "PARTNERS",
+    "CONTACTS": "CONTACTS",
+    "develop": "Development",
+    "docs": "Documents"
+  },
+  "banner": {
+    "title": "DIVERSE SERVICES, EASY, QUICK PAYMENT - CONVENIENCE",
+    "description": "With the most advanced and safe technology available today, HQ Pay provides businesses with the perfect payment solution. Support payments with the highest efficiency, while ensuring absolute information security.",
+    "button": "See more",
+    "games": "Games",
+    "users": "Users"
+  },
+  "banner_real": {
+    "home": {
+      "title1": "We’re Getting Ready",
+      "title2": "ASIA'S LEADING",
+      "description_1": "We will back to something amazing. Getting the latest updates about our games. Please sign up to our newsletter."
+    },
+    "service": {
+      "title1": "SMART PAYMENT",
+      "title2": "WITH A DIVERSE OF SERVICES",
+      "description_1": "HQ Pay payment gateway provides many payment methods available on the market, satisfying most of the online payment needs of users: Internet banking, VIPQR, Momo, Zalo Pay, Viettel Pay, USDT, Scratch cards, Payout"
+    },
+    "expense": {
+      "title1": "PAYMENT SOLUTIONS",
+      "title2": "COST OPTIMISATION",
+      "description_1": "Helping individuals and businesses optimize costs when using payment services of"
+    },
+    "contact": {
+      "title1": "CONTACT FOR",
+      "title2": "CONSULTATION FREE",
+      "description_1": "Customers can easily access and use products and services of",
+      "description_2": "anytime, anywhere. Consulting, customer support of",
+      "description_3": "always ready to serve.",
+      "description_4": "CONTACT US"
+    }
+  },
+  "home": {
+    "description_title": "ASIA'S LEADING SECURE PAYMENT SERVICE PROVIDER",
+    "description_sub_title": "With today's most advanced and secure technology, HQ Pay provides businesses with the perfect payment solution. Supports payments with the highest efficiency and at the same time ensures excellent information security. opposite to.",
+    "time_pay_gateway": "About Us",
+    "time_pay_gateway_desc": "Browse our selection of free online games and have a great time without leaving the site! Our Kids Games option also includes game reviews, extensive game cheats and walkthroughs, and much more. We have exclusive free downloads, videos, and articles as well. Etech reviews the most popular kids games from all the most popular video gaming platforms, so you don’t need to search around for fun anywhere else on the Internet. Explore a whole new world of gaming on Etech.",
+    "diversity": "24 - Hour",
+    "diversity_sub": "24/7 access ensures operators' businesses runs smoothly all year long.",
+    "auto": "Design",
+    "auto_sub": "Combining imaginative universes, play dynamics, and unprecedented gameplay, our games transcend the boundaries of the virtual world by weaving innovative gameplay.",
+    "fast": "Team",
+    "fast_sub": "Etech is an award-winning, international studio of designers, artists, animators and producers that create content for the biggest names in film and video games. ",
+    "fulltime_title": "24/7",
+    "fulltime": "Pay anytime, anywhere",
+    "connection": {
+      "title": "MULTI-CHANNEL CONNECTION",
+      "desc_1": "Domestic and international payment partners",
+      "desc_2": "Successful transaction rate",
+      "desc_3": "Annual transaction value",
+      "desc_4": "Partner banks"
+    },
+    "safe": "Safe",
+    "safe_sub": "Safe encrypted transactions - international standard",
+    "modern": "Modern",
+    "modern_sub": "Modern, fast payment",
+    "simple_payment_title": "Our Games",
+    "simple_payment_desc": "As a pioneer of mobile app gamification, we take pride in originality and individuality, providing global players with state-of-the-art games that feature splendid storylines, sensational sound effects and magnificent animation that never cease to impress.",
+    "create_order": "Create order",
+    "create_order_desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+    "payment": "Payment",
+    "payment_desc": "The payment process will be done via international encoding, autocomplete.",
+    "confirm": "Confirm",
+    "confirm_desc": "The payment process is automatically confirmed through the AI system connected to the bank and e-wallet",
+    "success": "Success",
+    "success_desc": "The customer's wallet will be automatically updated with the correct transaction amount quickly",
+    "advantage": "HQ Pay ADVANTAGE",
+    "sub_integrate": "We help you get the best payment experience",
+    "security": {
+      "security_1": "Safety & Security",
+      "security_1_desc": "With the most advanced security technology in accordance with international banking standards. Transactions are always guaranteed in a safe and highly secure environment",
+      "security_2": "Trusted",
+      "security_2_desc": "A team of professional technicians and experts, providing leading 3rd party payment services. Capable of responding to millions of daily transactions",
+      "security_3": "Quick integration",
+      "security_3_desc": "Optimized payment solution that can be quickly integrated as a highly secure solution for customers. Ready to use in just 2 hours."
+    },
+    "implement": {
+      "title_1": "PC Platform",
+      "title_2": "Mobile Platform",
+      "desc_1": "Payment with PC Business",
+      "desc_2": "Payment with Mobile"
+    },
+    "integrated_way": "HOW TO INTEGRA WITH HQ Pay",
+    "payment_with_business": "Payment on Business PC platforms",
+    "payment_with_business_desc": {
+      "desc_1": "Exclusive payment method only available at HQ Pay",
+      "desc_2": "Outstanding advantages of super speed - super precision",
+      "desc_3": "Applies to entire business"
+    },
+    "payment_with_mobile": "Payment on Mobile platform",
+    "payment_with_mobile_desc": {
+      "desc_1": "Exclusive payment method only available at HQ Pay",
+      "desc_2": "Quick and convenient",
+      "desc_3": "Operate anywhere with just your smartphone"
+    },
+    "cooperation_partnerships": "OUR PARTNERS",
+    "bank": "Bank",
+    "electronic_wallet": "Electronic wallet",
+    "card": "Scratch card"
+  },
+  "payment_method": {
+    "vip_qr": "VIP QR",
+    "qr_banking": "QR BANKING",
+    "online_banking": "Online banking",
+    "offline_banking": "Offline banking",
+    "card": "Scratch card",
+    "payout": "Payout",
+    "usdt": "USDT"
+  },
+  "contact_form": {
+    "title": "CONTACT US",
+    "name": "Name *",
+    "email": "Email *",
+    "contact_channel": "Telegram / Skype *",
+    "content": "Content",
+    "phone": "Phone *",
+    "role": "Role *",
+    "domain": "Domain business",
+    "name_company": "Company name *",
+    "product": "Products of interest *",
+    "message": "Message *",
+    "label": {
+      "name": "Name",
+      "phone": "Phone number",
+      "role": "Position",
+      "email": "Email",
+      "domain": "Field of activity",
+      "name_company": "Company / unit name",
+      "product": "Product of interest",
+      "contact_channel": "Telegram / Skype",
+      "message": "Message",
+      "content": "Content"
+    },
+    "rule_1": "By clicking “Get Advice” you agree to",
+    "rule_2": "HQ Pay Privacy Policy"
+  },
+  "footer": "2017 Copyright. Policy.",
+  "footer_content": {
+    "title": "Leading Payment Solution",
+    "description": "With the most advanced and secure technology today, HQ PAY provides businesses with the perfect payment solution. Supporting payment with the highest efficiency and at the same time ensuring absolute information security.",
+    "services": {
+      "title": "Address",
+      "internet_banking": "Internet banking",
+      "VIPQR": "VIPQR",
+      "MOMO": "MOMO",
+      "ZaloPay": "ZaloPay",
+      "Viettel_Pay": "Valletta Buildings, South Street, Valletta - VLT 1103 Malta, Mỹ",
+      "USDT": "20 Phan Dang Luu street, Hai Chau District, Danang city, Vietnam",
+      "Scratch_card": "(+1) 555-0108-000 hoặc (+236) 555-0108",
+      "Payout": "Payout"
+    },
+    "gateway_payment": {
+      "title": "Subscribe",
+      "price": "Subscribe to our newsletter and be the first to know about our updates",
+      "about_us": "About us",
+      "rules": "Terms of Use",
+      "privacy_policy": "Privacy Policy"
+    }
+  },
+  "integrate": {
+    "title": "ASIA'S LEADING SECURE PAYMENT SERVICE PROVIDER",
+    "description": "With today's most advanced and secure technology, HQ Pay provides businesses with the perfect payment solution. Supports payments with the highest efficiency and at the same time ensures excellent information security. opposite to.",
+    "paymentUI": "Payment interface",
+    "paymentCallback": "Payment callback",
+    "checkingPayment": "Checking payment interface",
+    "bankSupportPayment": "Bank supports payments",
+    "yes": "yes",
+    "merchant_no": "Business number",
+    "out_trade_no": "Seller order number",
+    "bank_code": "Bank code",
+    "bank_card_number": "Bank account",
+    "amount": "Amount",
+    "timestamp": "Timestamp/1000",
+    "notifyUrl": "Callback address",
+    "sign": "Lowercase signature information string",
+    "username": "User's real name",
+    "signal": "Sign",
+    "response_desc": "Return parameter description",
+    "code": "Code",
+    "code_desc": "Return code (200 success)",
+    "success": "Success status true or false",
+    "message": "Back to description",
+    "params_name": "Parameter name",
+    "required": "Required",
+    "type": "Type",
+    "desc": "Description",
+    "order_no": "System order number",
+    "status": "Status 1 Success 2 Failure",
+    "payment_ui": {
+      "title": "1. Payment interface",
+      "method": "Access method",
+      "method_desc_1": "· Communication method: POST method application/json",
+      "method_desc_2": "· Encoding method: Use UTF-8 encoding globally",
+      "request_url": "Request URL:",
+      "official": "· Official"
+    },
+    "payment_callback": {
+      "title": "2. Payment callback",
+      "desc": "When the merchant receives a callback from the system, please return \"success\" so the system does not send callbacks multiple times.",
+      "method": "Request method",
+      "parcel": "PARCEL",
+      "callback_parameter": "Callback parameter"
+    },
+    "checking_payment": {
+      "title": "3. Payment callback",
+      "desc": "When the merchant receives a callback from the system, please return \"success\" so the system does not send callbacks multiple times.",
+      "method": "Request method",
+      "parcel": "PARCEL",
+      "callback_parameter": "Callback parameter"
+    },
+    "bank_support": "4. Payment bank code",
+    "bank_name": "Bank name"
+  },
+  "service": {
+    "internet_banking": {
+      "title": "INTERNET BANKING",
+      "sub_title": "QR / ONLINE / OFFLINE",
+      "detail": {
+        "detail_1": "Quick transaction",
+        "detail_2": "Success rate over 99%",
+        "detail_3": "Supports more than 20 large and small domestic banks",
+        "detail_4": "Information encryption according to international standards, SSL/TLS transmission encryption technology meets GlobalSign international certification.",
+        "detail_5": "Absolute information security"
+      }
+    },
+    "vip_qr": {
+      "title": "VIPQR - PAY IN MINUTES!",
+      "sub_title": "JUST SCAN THE CODE, IT'S ALL HQ Pay!",
+      "detail": {
+        "detail_1": "Fast transaction, scan and get it right away",
+        "detail_2": "Security meets the highest standards",
+        "detail_3": "User information security",
+        "detail_4": "Supports many modern features"
+      }
+    },
+    "momo": {
+      "title": "MOMO",
+      "sub_title": "FAST - CONVENIENT - COMPACT",
+      "detail": {
+        "detail_1": "The most popular e-wallet in Vietnam",
+        "detail_2": "Quick and simple transaction",
+        "detail_3": "Tokenization feature",
+        "detail_4": "Safe payment - Absolute security",
+        "detail_5": "SSL/TLS transmission encryption technology meets GlobalSign international certification."
+      }
+    },
+    "zalo": {
+      "title": "ZALO PAY",
+      "sub_title": "SECURITY - MODERN",
+      "detail": {
+        "detail_1": "Fast transaction, scan and get it right away",
+        "detail_2": "Security meets the highest standards",
+        "detail_3": "User information security",
+        "detail_4": "Supports many modern features"
+      }
+    },
+    "viettel": {
+      "title": "VIETTEL PAY",
+      "sub_title": "PRESTIGE - QUALITY",
+      "detail": {
+        "detail_1": "Fast money transfer in just 1 minute",
+        "detail_2": "2-layer security technology",
+        "detail_3": "3DES security technology",
+        "detail_4": "PCI DSS international security certification"
+      }
+    },
+    "card": {
+      "title": "SCRATCH CARD",
+      "sub_title": "DIVERSITY OF NETWORKS",
+      "detail": {
+        "description": "Supports many carriers",
+        "detail_1": "MOBIFONE",
+        "detail_2": "VIETTEL",
+        "detail_3": "VINAPHONE",
+        "detail_4": "VIETNAMOBILE"
+      }
+    },
+    "usdt": {
+      "title": "USDT",
+      "sub_title": "REAL TIME UPDATED EXCHANGE RATES",
+      "detail": {
+        "detail_1": "Supports fast deposits via TRC20 and ERC 20",
+        "detail_2": "Secure and fast transactions",
+        "detail_3": "Updated market exchange rates"
+      }
+    },
+    "payout": {
+      "title": "PAYOUT",
+      "sub_title": "SIMPLE - QUICK",
+      "detail": {
+        "detail_1": "Simple integration",
+        "detail_2": "Fast processing speed",
+        "detail_3": "Supports all domestic banks",
+        "detail_4": "Customer information security"
+      }
+    }
+  },
+  "expense": {
+    "banner": {
+      "title": "ASIA'S LEADING SECURE PAYMENT SERVICE PROVIDER",
+      "description": "With today's most advanced and safest technology, HQ Pay provides businesses with the perfect payment solution. Supports payments with the highest efficiency, while ensuring excellent information security. great."
+    },
+    "title": "SERVICE COST",
+    "sub_title": "The fee depends on the average daily recharge amount of the customer. Please contact us as soon as possible to receive preferential fees and other after-sales services.",
+    "detail": {
+      "detail_1": "Online Banking / QR Banking / Offline Banking Fees",
+      "detail_2": "Momo e-wallet fee",
+      "detail_3": "Tel Tel Pay e-wallet fee",
+      "detail_4": "Zalo e-wallet fee",
+      "detail_5": "Scratch card fee",
+      "detail_6": "USDT Fees",
+      "detail_7": "Payment FEES",
+      "detail_8": "VIPQR Fees"
+    }
+  },
+  "viettel_pay": {
+    "phone_number": "Phone number",
+    "amount": "Amount of money",
+    "name": "Account name",
+    "content": "Content",
+    "time_payment": "Remaining payment time",
+    "description": "Secure online payment"
+  },
+  "bank_online": {
+    "payment_success": "Payment success",
+    "step": {
+      "login_acc": "Log in your account",
+      "author_code": "Authorization code",
+      "result_payment": "Payment results"
+    },
+    "form": {
+      "login": {
+        "user_name": {
+          "label": "User name",
+          "placeholder": "Enter your user name"
+        },
+        "password": {
+          "label": "Password",
+          "placeholder": "Enter password"
+        }
+      },
+      "code_trading": {
+        "code": {
+          "label": "Trading code",
+          "placeholder": "Enter trading code"
+        },
+        "otp": {
+          "label": "Code OTP",
+          "placeholder": "Enter code OTP"
+        }
+      }
+    }
+  },
+  "transaction": {
+    "top_action": {
+      "title": "Fast Buy and Sell",
+      "history": "Transaction History"
+    },
+    "title": "Buy and Sell Crypto Directly with Cryptocy",
+    "desc_1": "Super Speed",
+    "desc_2": "Secure Trades",
+    "button": {
+      "buy": "Buy",
+      "sell": "Sell"
+    },
+    "bottom": {
+      "title": "Where you 100% trust when buying and selling USDT",
+      "desc_1": "Fast - Automatic - Completely free deposits and withdrawals",
+      "button": "Start trading now"
+    },
+    "form": {
+      "pay_vnd": "Amount of VND you want to pay",
+      "sell_usdt": "Amount of USDT to sell",
+      "button": "Enter quantity",
+      "est_price": "Estimated price",
+      "you_get": "You get"
+    }
+  },
+  "profile": {
+    "balance": "Balance",
+    "fullname": "Full name",
+    "bank_account": "Bank account",
+    "wallet_usdt": "USDT wallet",
+    "change_password": "Change password",
+    "add_wallet": "Add wallet",
+    "wallet_address": "Address",
+    "add_bank": "Add bank account",
+    "bank_name": "Bank name",
+    "account_number": "Account number",
+    "account_name": "Account name"
+  },
+  "notification": {
+    "copy_success": "Copy successfully"
+  }
+}
