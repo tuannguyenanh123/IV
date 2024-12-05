@@ -1,4 +1,4 @@
-# Interview result 
+#  Result 
 Countdown, responsive, animation, mutil-language
 
 <img width="1512" alt="Screenshot 2024-11-03 at 14 42 15" src="https://github.com/user-attachments/assets/6c29d44a-ad02-4c6d-8061-311737bdc847">
